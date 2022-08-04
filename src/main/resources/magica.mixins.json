@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.bodiw.magica.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [],
+  "client": ["client.LivingEntityRendererInvoker", "client.PlayerEntityRendererMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

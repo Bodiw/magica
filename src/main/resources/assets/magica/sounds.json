@@ -1,0 +1,8 @@
+{
+  "entity.angel.angel_hurt": {
+    "sounds": ["magica:entity/angel/angel_hurt"]
+  },
+  "entity.angel.angel_death": {
+    "sounds": ["magica:entity/angel/angel_death"]
+  }
+}
